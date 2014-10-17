@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ikz:home|Door43 (ikz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ikz|d43-ikz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ikz/archive/master.zip|d43-ikz.zip]]
+
+**Recent Changes**
+{{changes>ns = ikz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ikz|Ethnologue data]]
+
